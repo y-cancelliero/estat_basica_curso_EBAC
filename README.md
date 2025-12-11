@@ -8,3 +8,6 @@ Projeto desenvolvido durante o curso Profissão: Cientista de Dados. O objetivo 
 - Etapa 4: Plotagem de boxplot para visualização da distribuição da categoria de maior desvio padrão com a biblioteca plotly express. A análise possibilitou a identificação de outliers no conjunto explorado.
 - Etapa 5: Plotagem de gráfico de barras para visualização dos descontos por categoria com plotly express. A análise mostrou que as categorias que receberam mais desconto foram congelados e beleza e cuidado pessoal;
 - Etapa 6: Plotagem de gráfico interativo com a biblioteca Dash que agrupou os dados por marca e categoria, mostrando o desconto médio, de forma a facilitar a visualização dos dados. 
+
+## Resultados
+A partir do projeto, foi possível aprimorar habilidades em ferramentas estatísticas e de visualização de dados, além da extração de insights úteis sobre o conjunto analisado. 
